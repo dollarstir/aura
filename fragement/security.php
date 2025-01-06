@@ -113,7 +113,7 @@ function footerbar(){
       <div class="container">
         <div class="row">
           <div class="col-md-6 text-md-left text-center">
-            <p>© '.date('Y').' <a href="home" class="base--color"> Alpha Vault & Security  </a>. All rights reserved</p>
+            <p>© '.date('Y').' <a href="home" class="base--color"> Secure Aura Gold </a>. All rights reserved</p>
           </div>
           <div class="col-md-6">
             <ul class="social-link-list d-flex flex-wrap justify-content-md-end justify-content-center">
@@ -138,5 +138,19 @@ function footerbar(){
     <script src="vv/assets/js/vendor/wow.min.js"></script>
     <script src="vv/assets/js/contact.js"></script>
     <!-- dashboard custom js -->
-    <script src="vv/assets/js/app.js"></script>';
+    <script src="vv/assets/js/app.js"></script>
+      <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src="https://embed.tawk.to/677c279c49e2fd8dfe034f0e/1iguflfbu";
+s1.charset="UTF-8";
+s1.setAttribute("crossorigin","*");
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+    ';
 }
